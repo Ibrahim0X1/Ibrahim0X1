@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ibrahim0X1
-- 👀 I’m interested in AI in generel and specificlly machine learning also i used to play with hacking tool scince i was 14s🧒 so i have some passion for cyber security 
+- 👀 I’m interested in AI in generel and specificlly machine learning also i used to play with hacking tools scince i was 14s🧒 so i have some passion for cyber security 
 - 🌱 I’m currently learning more and more about  Ai and machine learning algorithms to have a solid and strong problem solving skills.
 - 💞️ I’m looking for collaboratation on any projects.
+- portfolio: https://rainy-trout-48f.notion.site/?pvs=74
 - 📫 How to reach me => ibrahim_ahmed010@outlook.com
 
 <!---
